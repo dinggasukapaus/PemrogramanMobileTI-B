@@ -9,5 +9,5 @@ apilikasi ini berbasis android dan juga memiliki berbagai fitur, yaitu ada berit
 
 PROGRESS 2 : 
 Menerapkan core widget dan root widget ->
-Membuat tampilang LOGIN dan DASHBOARD 
+Membuat tampilang LOGIN REGISTER dan DASHBOARD 
 
