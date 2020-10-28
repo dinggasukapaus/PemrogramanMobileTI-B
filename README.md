@@ -10,4 +10,12 @@ apilikasi ini berbasis android dan juga memiliki berbagai fitur, yaitu ada berit
 PROGRESS 2 : 
 Menerapkan core widget dan root widget ->
 Membuat tampilang LOGIN REGISTER dan DASHBOARD 
+Login -> 
+Terrdapat form untuk mengisi email dan password
+
+REGISTER ->
+Terdapat form untuk mendaftar ke aplikasi
+
+DASHBIARD -> 
+tampilan awal pada aplikasi.
 
