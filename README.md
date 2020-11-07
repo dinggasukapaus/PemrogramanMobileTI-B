@@ -1,16 +1,11 @@
-# love_yourselfid
+Virgiawan Indrianto 182410102016, Rizal Akbar Arifin 182410102044, Melva Anggraini P. 182410102045
 
-A new Flutter application.
+LoveYourself.id
 
-## Getting Started
+LoveYourself.id adalah sebuah aplikasi tentang kesetaraan gender yang bertujuan untuk memperjuangkan hak hak perempuan di Indonesia. Aplikasi ini apilikasi ini berbasis android dan juga memiliki berbagai fitur, yaitu ada berita tentang kesetaraan gender, event tentang kesetaraan gender, tips dan trik terkait kesetaraan gender, Artikel tentang kesetaraan gender. Aplikasi ini berfungsi untuk memberikan info info yang penting dan menarik tentang kesetaraan GENDER.
 
-This project is a starting point for a Flutter application.
+PROGRESS 2 : Menerapkan core widget dan root widget -> Membuat tampilang LOGIN REGISTER dan DASHBOARD Login -> Terrdapat form untuk mengisi email dan password
 
-A few resources to get you started if this is your first Flutter project:
+REGISTER -> Terdapat form untuk mendaftar ke aplikasi
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+DASHBIARD -> tampilan awal pada aplikasi.
